@@ -9,4 +9,4 @@
 5imulacrum/5imulacrum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Snake animation](https://github.com/5imulcarum/5imulcarum/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://github.com/5imulacrum/5imulacrum/blob/output/github-contribution-grid-snake2.svg)
