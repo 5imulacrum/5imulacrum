@@ -25,6 +25,14 @@
 </h1>
 </div>
 
+## 🛠️ Languages and Tools
+<!--- Stuff I've Learned About--->
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,nodejs,react,mongodb,flutter,godot" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,python,linux" />
+</p>
+
 <hr>
 
 <!--- Contribution Snake--->
