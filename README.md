@@ -8,7 +8,7 @@
 <!--- GitHub visit counter--->
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{5imulacrum}/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/5imulacrum/count.svg" alt="Visitor's Count" />
 </div>
 <!---
 5imulacrum/5imulacrum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
