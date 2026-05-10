@@ -5,6 +5,11 @@
 - 📫 How to reach me: Not looking to collab at the moment, so I'll keep that to myself, lolz. 
 - ⚡ Fun fact: I also enjoy rollerblading! 
 
+<!--- GitHub visit counter--->
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{5imulacrum}/count.svg" alt="Visitor's Count" />
+</div>
 <!---
 5imulacrum/5imulacrum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
