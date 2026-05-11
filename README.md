@@ -13,7 +13,7 @@
 
 <!--- What I'm Learning--->
 - 🌱 I’m currently learning **[Flutter](https://docs.flutter.dev/learn)**
-- 💬 Ask me about **Java, Node.js, C++...or anything [here](https://github.com/5imulacrum/5imulacrum/issues)**
+- 💬 Ask me about **Java, Cybersecurity, C++...or anything [here](https://github.com/5imulacrum/5imulacrum/issues)**
 
 <br>
 
