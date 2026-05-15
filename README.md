@@ -1,7 +1,6 @@
 - 👀 I’m interested in Cybersecurity and coding, but also enjoy sewing, reading mangas/manhwas, and watching anime! (But what CS person isn't into that)?
 - 🌱 I’m currently learning how to make bigger projects and build myself up as a developer.
 - 💞️ Currently working on new projects to advance my skillset.
-- 📫 How to reach me: Not looking to collab at the moment, so I'll keep that to myself, lolz. 
 - ⚡ Fun fact: I also enjoy rollerblading! 
 
 <!--- Welcome Typing--->
@@ -34,6 +33,8 @@
 </p>
 
 <hr>
+
+<!--- GitHub Stats (ADD LATER) --->
 
 <!--- Contribution Snake--->
 <picture>
