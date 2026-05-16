@@ -16,11 +16,20 @@
 
 <br>
 
-<!--- Deets (ADD SUBSTACK) --->
+<!--- Deets --->
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"/>
-  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"/>
+    <a href="https://www.linkedin.com/in/bebbian-estrada/">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo"/>
+     </a>
+    <a href="https://www.instagram.com/_5imulacrum_/">
+      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo"/>
+     </a>
+    <a href="https://tryhackme.com/p/5imulacrum/">
+      <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="TryHackMe logo"/>
+    </a>
+    <a href="https://jadeicious.substack.com/">
+      <img src="https://img.shields.io/static/v1?message=Substack&logo=substack&label=&color=ff5600&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Substack logo"/>
+    </a>
 </div>
 
 ## 🛠️ Languages and Tools
