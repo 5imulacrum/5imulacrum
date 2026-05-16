@@ -84,19 +84,29 @@
 
 <hr>
 
-<!--- GitHub Stats (ADD LATER) --->
+<!--- GitHub Visit Counter --->
+<div align=center>
+    <img src="https://profile-counter.deno.dev/:5imulacrum:/count.svg" alt="Key:: Visitor's Count" />
+</div>
+<br>
+
+<!--- GitHub Stats --->
 <div align="center">
   <img src="https://raw.githubusercontent.com/5imulacrum/5imulacrum/languages-output/languages.svg" height="150" alt="Languages graph"/>
   <img src="https://streak-stats.demolab.com?user=5imulacrum&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="Streak graph"/>
   <img src="https://raw.githubusercontent.com/5imulacrum/5imulacrum/activity-graph-output/activity-graph.svg" height="300" alt="Activity graph"/>
 </div>
 
-<!--- Contribution Snake --->
+<!--- Contribution PAC-MAN --->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/5imulacrum/5imulacrum/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/5imulacrum/5imulacrum/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/5imulacrum/5imulacrum/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+<!--- Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/5imulacrum/5imulacrum/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/5imulacrum/5imulacrum/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/5imulacrum/5imulacrum/output/github-contribution-grid-snake.svg">
-</picture>      
-
-<!--- GitHub Visit Counter --->
-<img src="https://profile-counter.deno.dev/:5imulacrum:/count.svg" alt="Key:: Visitor's Count" />
+</picture>      --->
