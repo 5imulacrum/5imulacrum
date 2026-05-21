@@ -11,7 +11,7 @@
 ### A CS student who's looking to learn more about development and Cybersecurity to save the world! (Basically.)
 
 <!--- What I'm Learning --->
-- 🌱 I’m currently learning **[Flutter](https://docs.flutter.dev/learn)**
+- 🌱 I’m currently learning **[Godot](https://docs.godotengine.org/)**
 - 💬 Ask me about **Java, Cybersecurity, C++...or anything [here](https://github.com/5imulacrum/5imulacrum/issues)**
 
 <br>
