@@ -1,6 +1,6 @@
 - 👀 I’m interested in Cybersecurity and coding, but also enjoy sewing, reading mangas/manhwas, and watching anime! (But what CS person isn't into that)?
 - 🌱 I’m currently learning how to make bigger projects and build myself up as a developer.
-- 💞️ Currently working on new projects to advance my skillset.
+- 💞️ I want to learn Godot to help build a game app project!
 - ⚡ Fun fact: I also enjoy rollerblading! 
 
 <!--- Welcome Typing --->
