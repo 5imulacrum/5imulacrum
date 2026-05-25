@@ -27,9 +27,6 @@
     <a href="https://tryhackme.com/p/5imulacrum/">
       <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="TryHackMe logo"/>
     </a>
-    <a href="https://jadeicious.substack.com/">
-      <img src="https://img.shields.io/static/v1?message=Substack&logo=substack&label=&color=ff5600&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Substack logo"/>
-    </a>
 </div>
 
 ## 🛠️ Languages and Tools
