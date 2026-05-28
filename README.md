@@ -1,8 +1,3 @@
-- 👀 I’m interested in Cybersecurity and coding, but also enjoy sewing, reading mangas/manhwas, and watching anime! (But what CS person isn't into that)?
-- 🌱 I’m currently learning how to make bigger projects and build myself up as a developer.
-- 💞️ I want to learn Godot to help build a game app project!
-- ⚡ Fun fact: I also enjoy rollerblading! 
-
 <!--- Welcome Typing --->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=30&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Welcome!+👋;+I'm+Jade+Estrada;+(@5imulacrum)!;" />
@@ -13,6 +8,10 @@
 <!--- What I'm Learning --->
 - 🌱 I’m currently learning **[Godot](https://docs.godotengine.org/)**
 - 💬 Ask me about **Java, Cybersecurity, C++...or anything [here](https://github.com/5imulacrum/5imulacrum/issues)**
+-  👀 I’m interested in Cybersecurity and coding, but also enjoy sewing, reading mangas/manhwas, and watching anime! (But what CS person isn't into that)?
+- 🌱 I’m currently learning how to make bigger projects and build myself up as a developer.
+- 💞️ I want to learn Godot to help build a game app project!
+- ⚡ Fun fact: I also enjoy rollerblading! 
 
 <br>
 
